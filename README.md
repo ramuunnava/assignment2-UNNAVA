@@ -15,7 +15,7 @@ chennai international airport.
 3. get down at the jayalalitha memorial mueseum
       1. buy ticket
       2. get inside through the main entrance
-* jayalalitha memorial mueseum
+* chenni shopping mall
       * Pictures
       * Fruites
 * marina beach
