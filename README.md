@@ -28,11 +28,11 @@ chennai international airport.
 
 The four cities which i would like everyone to visit.They are located in india.
 
-|Name of The City||place to visit ||Time|
-|:--------------:||:-------------:||:--:|
-|Guntur          | |krishnamahal  ||2 hours 30|
-|Amravativ       | |Buddha statue ||1 hour|
-|Pedakurapadu    | |RailwayStation||30 mins|
+| Name of The City | place to visit | Time|
+|:--------------:  | :-------------:|:---:|
+| Guntur           | krishnamahal   |2 hours 30|
+| Amravativ        | Buddha statue  |1 hour|
+| Pedakurapadu     | RailwayStation |30 mins|
 
 
 
