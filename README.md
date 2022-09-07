@@ -26,4 +26,12 @@ chennai international airport.
 ***
 # famous cities
 
-up to part 6 is completed. begin with part 7. xoxo
+The four cities which i would like everyone to visit.They are located in india.
+
+|Name of The City||place to visit| |Time|
+|Guntur| |krishnamahal| |2 hours 30|
+|Amravati| |Buddha statue| |1 hour|
+|Pedakurapadu| |Railway Station| |30 mins|
+
+
+
