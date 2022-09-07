@@ -4,7 +4,7 @@
 its my **favourite** because it's in the sea coast.it is in **chennai**. There are different things to see such as statues and life story of jayalalitha and mainly The **Beach**.
 ***
 Section with an ordered list.
-chennai international airport.
+chennai international airport. 
 ## Route map to jayalalitha mueseum from cia
 1. chennai international Airport
       1. main exit
@@ -28,10 +28,11 @@ chennai international airport.
 
 The four cities which i would like everyone to visit.They are located in india.
 
-|Name of The City||place to visit| |Time|
-|Guntur| |krishnamahal| |2 hours 30|
-|Amravati| |Buddha statue| |1 hour|
-|Pedakurapadu| |Railway Station| |30 mins|
+|Name of The City||place to visit ||Time|
+|:--------------:||:-------------:||:--:|
+|Guntur          | |krishnamahal  ||2 hours 30|
+|Amravativ       | |Buddha statue ||1 hour|
+|Pedakurapadu    | |RailwayStation||30 mins|
 
 
 
