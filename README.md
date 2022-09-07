@@ -40,12 +40,12 @@ The four cities which i would like everyone to visit.They are located in india.
 
 >The journey of a thousand miles begins with one step
 
------------------------------------------<cite>*Lao Tzu*</cite>
+-- <cite>*Lao Tzu*</cite>
 
 >That which does not kill us makes us stronger.
 
------------------------------------------<cite>*Friedrich Nietzsche*</cite>
+-- <cite>*Friedrich Nietzsche*</cite>
 
 >Tough times never last but tough people do.
 
-------------------------------------------<cite>*Robert H. Schuller*</cite>
+-- <cite>*Robert H. Schuller*</cite>
