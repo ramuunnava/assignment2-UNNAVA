@@ -1,6 +1,6 @@
 # assignment2-UNNAVA
 # ramu unnava
-## my favourite is jayalalitha memorial museum
+## my favourite is jayalalitha memorial mueseum
 its my **favourite** because it's in the sea coast.it is in **chennai**. There are different things to see such as statues and life story of jayalalitha and mainly The **Beach**.
 ***
 Section with an ordered list.
@@ -21,4 +21,9 @@ chennai international airport.
 * marina beach
 * fish market
 
+**[Link to aboutme](AboutMe.md)**
 
+***
+# famous cities
+
+up to part 6 is completed. begin with part 7. xoxo
