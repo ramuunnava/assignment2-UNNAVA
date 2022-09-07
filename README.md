@@ -55,11 +55,13 @@ The four cities which i would like everyone to visit.They are located in india.
 
 >Each tab is separate from the other tab using a vertical line. I am trying to figure out how to make this menu more responsive, for example make some kind of hamburger menu. so far I didn't succeeded because I don't familiar with the principles of making responsive components very well without bootstrap.Quick link to the article<https://stackoverflow.com/questions/36310655/how-to-create-a-responsive-menuhamburger-menu>
 
+```
 <svg viewBox="0 0 100 80" width="40" height="40">
   <rect width="100" height="20"></rect>
   <rect y="30" width="100" height="20"></rect>
   <rect y="60" width="100" height="20"></rect>
 </svg>
+```
 
 
 Quick link to the snippet<https://css-tricks.com/snippets/svg/svg-hamburger-menu/>
