@@ -1,4 +1,24 @@
 # assignment2-UNNAVA
 # ramu unnava
 ## my favourite is jayalalitha memorial museum
-its my **favourite** because it's the only one i've ever visited.it is in **chennai**. There are different things to see such as statues and life story of jayalalitha and mainly The **Beach**.
+its my **favourite** because it's in the sea coast.it is in **chennai**. There are different things to see such as statues and life story of jayalalitha and mainly The **Beach**.
+***
+Section with an ordered list.
+chennai international airport.
+## Route map to jayalalitha mueseum from cia
+1. chennai international Airport
+      1. main exit
+      2. take a uber to metro station
+2. metro station
+      1. gate no 2
+      2. take metro to the marina beach
+3. get down at the jayalalitha memorial mueseum
+      1. buy ticket
+      2. get inside through the main entrance
+* jayalalitha memorial mueseum
+      * Pictures
+      * Fruites
+* marina beach
+* fish market
+
+
